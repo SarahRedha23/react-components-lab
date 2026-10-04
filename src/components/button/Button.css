@@ -1,0 +1,8 @@
+.uploadButton{
+    background-color: palevioletred;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding: 30;
+    border: 40;
+}
